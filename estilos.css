@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Titulo{
+    font-size: 50px;
+    text-align: center;
+}
+.Seccion_1{
+    width: 60vw;
+    height: 70vh;
+    margin-top: 5vh;
+    background-color: #4558FF;
+    border: 2px solid #E72121;
+    border-radius: 15px;
+    margin-left: 18vw;
+}
+.Texto_Seccion_1{
+    width: 20vw;
+    color:white;
+    margin-top: 5vh;
+    margin-left: 2vw;
+}
+.Textito_Seccion_1{
+    width: 25vw;
+    color:white;
+    margin-top: 5vh;
+    margin-left: 2vw;
+    font-weight: normal;
+}
+.Boton_Seccion_1{
+    width: 13vw;
+    height: 9vh;
+    background-color: #2957FF;
+    border: none;
+    border-radius: 25px;
+    margin-top: 2vh;
+    margin-left: 2vw;
+}
+.Texto_Boton{
+    color: white;
+    font-weight: normal;
+    font-size: 25px;
+}
+.Img_Seccion_1{
+    width: 25vw;
+    height: 52vh;
+    position: absolute;
+    top: 22vh;
+    left: 50vw;
+}
