@@ -29,6 +29,7 @@
     margin-top: 5vh;
     margin-left: 2vw;
     font-weight: normal;
+    font-size: 30px;
 }
 .Boton_Seccion_1{
     width: 13vw;
@@ -50,4 +51,23 @@
     position: absolute;
     top: 22vh;
     left: 50vw;
+}
+.Texto_Seccion_2{
+    margin-left: 8vw;
+    margin-top: 10vh;
+    font-size: 40px;
+}
+.Textito_Seccion_2{
+    width: 40vw;
+    font-size: 30px;
+    font-weight: normal;
+    margin-left: 8vw;
+    margin-top: 4vh;
+}
+.Img_Seccion_2{
+    width: 40vw;
+    height: 60vh;
+    position: absolute;
+    left: 50vw;
+    top: 80vh;
 }
