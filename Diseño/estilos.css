@@ -12,20 +12,18 @@
     width: 60vw;
     height: 70vh;
     margin-top: 5vh;
-    background-color: #4558FF;
-    border: 2px solid #E72121;
+    background-color: #F7C790;
+    border: 2px solid #EEA175;
     border-radius: 15px;
     margin-left: 18vw;
 }
 .Texto_Seccion_1{
     width: 20vw;
-    color:white;
     margin-top: 5vh;
     margin-left: 2vw;
 }
 .Textito_Seccion_1{
     width: 25vw;
-    color:white;
     margin-top: 5vh;
     margin-left: 2vw;
     font-weight: normal;
@@ -34,14 +32,13 @@
 .Boton_Seccion_1{
     width: 13vw;
     height: 9vh;
-    background-color: #2957FF;
+    background-color: #EEA175;
     border: none;
     border-radius: 25px;
     margin-top: 2vh;
     margin-left: 2vw;
 }
 .Texto_Boton{
-    color: white;
     font-weight: normal;
     font-size: 25px;
 }
@@ -70,4 +67,28 @@
     position: absolute;
     left: 50vw;
     top: 80vh;
+}
+.Cuadro{
+    width: 22vw;
+    height: 40vh;
+    background-color: #F7C790;
+    border: 2px solid #EEA175;
+    border-radius: 15px;
+    margin-left: 5vw;
+}
+.Textito_Seccion_4{
+    font-weight: normal;
+    font-size: 20px;
+    margin-left: 9vw;
+    margin-top: 3vh;
+}
+.Boton_Seccion_4{
+    width: 13vw;
+    height: 9vh;
+    background-color: #EEA175;
+    border: none;
+    border-radius: 25px;
+    position: absolute;
+    left: 50vw;
+    top: 203vh;
 }
