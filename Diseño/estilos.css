@@ -12,8 +12,8 @@
     width: 60vw;
     height: 70vh;
     margin-top: 5vh;
-    background-color: #F7C790;
-    border: 2px solid #EEA175;
+    background-color: #4558FF;
+    border: 2px solid #E72121;
     border-radius: 15px;
     margin-left: 18vw;
 }
@@ -21,6 +21,7 @@
     width: 20vw;
     margin-top: 5vh;
     margin-left: 2vw;
+    color: white;
 }
 .Textito_Seccion_1{
     width: 25vw;
@@ -28,11 +29,12 @@
     margin-left: 2vw;
     font-weight: normal;
     font-size: 30px;
+    color: white;
 }
 .Boton_Seccion_1{
     width: 13vw;
     height: 9vh;
-    background-color: #EEA175;
+    background-color: #2957FF;
     border: none;
     border-radius: 25px;
     margin-top: 2vh;
@@ -41,6 +43,7 @@
 .Texto_Boton{
     font-weight: normal;
     font-size: 25px;
+    color: white;
 }
 .Img_Seccion_1{
     width: 25vw;
@@ -71,8 +74,7 @@
 .Cuadro{
     width: 22vw;
     height: 40vh;
-    background-color: #F7C790;
-    border: 2px solid #EEA175;
+    border: 2px solid #B7B1B1;
     border-radius: 15px;
     margin-left: 5vw;
 }
@@ -85,10 +87,45 @@
 .Boton_Seccion_4{
     width: 13vw;
     height: 9vh;
-    background-color: #EEA175;
+    background-color: #2957FF;
     border: none;
     border-radius: 25px;
     position: absolute;
     left: 50vw;
     top: 203vh;
+}
+.Sign_in{
+    width: 50vw;
+    height: 80vh;
+    background-color:#4558FF;
+    border: 2px solid #E72121;
+    border-radius: 15px;
+    margin-left: 25vw;
+}
+.SignIn_Texto{
+    color: white;
+    font-weight: normal;
+    margin-left: 5vw;
+    margin-top: 8vh;
+}
+.SignIn_Input{
+    width: 40vw;
+    height: 5vh;
+    font-size: 20px;
+    border: none;
+    margin-left: 5vw;
+    border-radius: 15px;
+}
+.SignIn_Boton{
+    width: 13vw;
+    height: 9vh;
+    background-color: #2957FF;
+    border: none;
+    border-radius: 25px;
+    margin-left: 43.5vw;
+    margin-top: 5vh;
+}
+.SignIn_Boton_Texto{
+    color: white;
+    font-weight: normal;
 }
