@@ -34,7 +34,7 @@
 .Boton_Seccion_1{
     width: 13vw;
     height: 9vh;
-    background-color: #2957FF;
+    background-color: #FF995D;
     border: none;
     border-radius: 25px;
     margin-top: 2vh;
@@ -51,6 +51,23 @@
     position: absolute;
     top: 22vh;
     left: 50vw;
+}
+@keyframes Animacion2{
+    from {left: -45vw;}
+    to {left: 0vw;}
+}
+@keyframes Animacion3{
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+@keyframes Animacion4{
+    from {top: -50vh;}
+    to {top: 0vh;}
+}
+.Seccion_2{
+    position: relative;
+    animation-name: Animacion2;
+    animation-duration: 2s;
 }
 .Texto_Seccion_2{
     margin-left: 8vw;
@@ -69,7 +86,7 @@
     height: 60vh;
     position: absolute;
     left: 50vw;
-    top: 80vh;
+    top: -5vh;
 }
 .Cuadro{
     width: 22vw;
@@ -77,6 +94,12 @@
     border: 2px solid #B7B1B1;
     border-radius: 15px;
     margin-left: 5vw;
+    animation-name: Animacion3;
+    animation-duration: 8s;
+}
+.Seccion_4{
+    animation-name: Animacion4;
+    animation-duration: 10s;
 }
 .Textito_Seccion_4{
     font-weight: normal;
@@ -87,7 +110,7 @@
 .Boton_Seccion_4{
     width: 13vw;
     height: 9vh;
-    background-color: #2957FF;
+    background-color: #FF995D;
     border: none;
     border-radius: 25px;
     position: absolute;
